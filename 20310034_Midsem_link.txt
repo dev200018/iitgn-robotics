@@ -1,0 +1,3 @@
+Link for T1: https://colab.research.google.com/drive/1_FJZmtrRRkTXARaC2dH9uodM4bSt5kBy?usp=sharing 
+Link for T3: https://colab.research.google.com/drive/1pyxgcICHtx8IDkwX5SBjyhQB32RDTrGa?usp=sharing
+Link for T4: https://colab.research.google.com/drive/18m8ajyv6lGZTTUYDXJW27YZ79xYjh7qX?usp=sharing
